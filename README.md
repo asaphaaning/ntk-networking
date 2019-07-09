@@ -4,6 +4,10 @@
 
 Requires Node.js
 
+Create config.json in src and add
+
+```{"USERNAME": "", "PASSWORD": ""}```
+
 Substitute yarn for npm if you prefer.
 
 ```yarn install```
