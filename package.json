@@ -1,0 +1,26 @@
+{
+	"name": "ntk-dtu",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "tsc -p tsconfig.json && node out/index.js",
+		"test": "jest",
+		"testWithCoverage": "jest --coverage"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"ip-to-int": "^0.3.1",
+		"p-event": "^4.0.0",
+		"typescript": "^3.3.3333"
+	},
+	"devDependencies": {
+		"@types/jest": "^24.0.11",
+		"@types/node": "^11.10.5",
+		"@types/p-event": "^3.0.0",
+		"jest": "^24.5.0",
+		"ts-jest": "^24.0.0"
+	}
+}

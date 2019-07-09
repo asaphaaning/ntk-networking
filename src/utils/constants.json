@@ -1,0 +1,21 @@
+{
+	"NTK_PORT": 2000,
+	"NTK_IP": "tk0.kru.com",
+	"STATE": {
+		"INITIAL": "initial",
+		"CONNECTED": "connected",
+		"LOGGING_IN": "logging in",
+		"SESSION": "session",
+		"LOGIN_RESP": "login_resp",
+		"GAME_SERVER_HANDSHAKE": "game server handshake",
+		"SESSION": "session"
+	},
+	"ENCRYPTION_KEY": "Urk#nI7ni",
+	"ACTIONS": {
+		"KRU": 98,
+		"VERSION": 0,
+		"LOGIN": 3,
+		"GAME_SERVER_CONNECT": 16
+	},
+	"VERSION": 750
+}
